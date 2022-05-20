@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../nestj_nextjs/.idea/nestj_nextjs.iml" filepath="$PROJECT_DIR$/../nestj_nextjs/.idea/nestj_nextjs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/redux-toolkit.iml" filepath="$PROJECT_DIR$/.idea/redux-toolkit.iml" />
     </modules>
   </component>
